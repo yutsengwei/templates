@@ -7,10 +7,12 @@ Summary #
 Fixes # (issue)
 
 ## Customer Impact
+
 Please describe any customer facing impact of this change. This can be positive or negative impact.
 
-## Dependency/Performance Impact
-Please describe any relevant Dependency/performance impact of this change. This can be positive or negative impact. How did you characterize/test the dependency/performance impact?
+## Dependency (INFRA)
+
+Please describe any relevant Dependency impact of this change. This can be positive or negative impact. How did you characterize/test the dependency impact?
 
 ## Test Plan
 
