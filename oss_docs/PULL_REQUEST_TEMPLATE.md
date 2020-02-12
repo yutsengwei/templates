@@ -1,12 +1,15 @@
 ## Description
 
 Summary #
-
 ```
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 ```
 
-Fixes # (issue)
+Fixes # 
+```
+Issue number 1
+Issue number 2
+```
 
 ## Customer Impact
 
@@ -14,20 +17,22 @@ Fixes # (issue)
 Please describe any customer facing impact of this change. This can be positive or negative impact.
 ```
 
-## Dependency (INFRA)
+## Dependency (Optional)
 
 ```
 Please describe any relevant Dependency impact of this change. This can be positive or negative impact. How did you characterize/test the dependency impact?
 ```
 
-## Test Plan
+## Test Plan (Optional)
 
-```Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration```
+```
+Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+```
 
 - [ ] Test A
 - [ ] Test B
 
-## Checklist:
+## Checklist
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
