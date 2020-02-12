@@ -2,7 +2,8 @@
 
 Summary #
 ```
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. 
+List any dependencies that are required for this change.
 ```
 
 Fixes # 
@@ -20,13 +21,17 @@ Please describe any customer facing impact of this change. This can be positive 
 ## Dependency (Optional)
 
 ```
-Please describe any relevant Dependency impact of this change. This can be positive or negative impact. How did you characterize/test the dependency impact?
+Please describe any relevant Dependency impact of this change. 
+This can be positive or negative impact. 
+How did you characterize/test the dependency impact?
 ```
 
 ## Test Plan (Optional)
 
 ```
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+Please describe the tests that you ran to verify your changes. 
+Provide instructions so we can reproduce. 
+Please also list any relevant details for your test configuration
 ```
 
 - [ ] Test A
