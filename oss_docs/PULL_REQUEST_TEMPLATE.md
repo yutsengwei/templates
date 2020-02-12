@@ -1,32 +1,21 @@
-# Pull Request Template
-
 ## Description
 
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
 Fixes # (issue)
 
-## Type of change
+## Customer Impact
+Please describe any customer facing impact of this change. This can be positive or negative impact.
 
-Please delete options that are not relevant.
+## Performance Impact
+Please describe any relevant performance impact of this change. This can be positive or negative impact. How did you characterize/test the performance impact?
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
-
-## How Has This Been Tested?
+## Test Plan
 
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
 - [ ] Test A
 - [ ] Test B
-
-**Test Configuration**:
-* Firmware version:
-* Hardware:
-* Toolchain:
-* SDK:
 
 ## Checklist:
 
